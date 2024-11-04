@@ -1,10 +1,10 @@
 # Project Title
 
-Simple overview of use/purpose.
+Codigo Seguro
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+Repositorio para incluir las mejores prácticas de creación de código seguro
 
 ## Getting Started
 
@@ -35,7 +35,7 @@ command to run if program contains helper info
 
 ## Authors
 
-Contributors names and contact info
+Irene Cid Rico
 
 ex. Dominique Pizzie  
 ex. [@DomPizzie](https://twitter.com/dompizzie)
