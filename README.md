@@ -35,7 +35,7 @@ command to run if program contains helper info
 
 ## Authors
 
-ex.Antonio García Miyares
+[Antonio García Miyares](antoniogm.md)
 ex.Irene Cid Rico
 
 ## Version History
