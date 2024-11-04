@@ -1,10 +1,10 @@
 # Project Title
 
-Simple overview of use/purpose.
+Codigo Seguro
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+Repositorio para incluir las mejores prácticas de creación de código seguro
 
 ## Getting Started
 
@@ -35,10 +35,11 @@ command to run if program contains helper info
 
 ## Authors
 
-Mateo Fernandez Rodriguez
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+ex. Mateo Fernandez Rodriguez
+ex. Antonio García Miyares
+ex. Irene Cid Rico
+
 
 ## Version History
 
