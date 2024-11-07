@@ -35,11 +35,10 @@ command to run if program contains helper info
 
 ## Authors
 
-- [Mateo Fernández Rodríguez](mateofr67.md)
+[Mateo Fernández Rodríguez](mateofr67.md)
 ex. Mateo Fernandez Rodriguez
-ex. Antonio García Miyares
+[Antonio García Miyares](antoniogm.md)
 ex. Irene Cid Rico
-
 
 ## Version History
 
